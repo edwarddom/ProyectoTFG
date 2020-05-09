@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 570a4f8a-7c5f-4db9-b940-3e48a1f1bea2
+langcode:
+  -
+    value: es
+path:
+  -
+    value: /node/2
+alias:
+  -
+    value: /AccesoDenegado
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

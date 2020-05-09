@@ -1,0 +1,126 @@
+uuid:
+  -
+    value: 469a4a71-3d4b-4c01-a996-3feff4828fbd
+type:
+  -
+    target_id: default
+    target_type: commerce_order_type
+    target_uuid: ea30c38f-5b18-42ae-aaa2-ed323e8d0df2
+order_number: {  }
+store_id:
+  -
+    target_type: commerce_store
+    target_uuid: afcf93e7-1192-4ae6-831a-a9aa4ed2b450
+uid:
+  -
+    target_type: user
+    target_uuid: 018a3349-3f05-40c3-afee-54e3f6310e67
+mail:
+  -
+    value: prueba24@gmail.com
+ip_address:
+  -
+    value: '::1'
+billing_profile: {  }
+order_items: {  }
+adjustments: {  }
+total_price: {  }
+total_paid: {  }
+state:
+  -
+    value: draft
+data:
+  -
+    paid_event_dispatched: false
+locked:
+  -
+    value: false
+created:
+  -
+    value: '2020-04-24T16:59:44+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-27T20:26:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+placed: {  }
+completed: {  }
+cart:
+  -
+    value: true
+checkout_flow: {  }
+checkout_step: {  }
+payment_gateway: {  }
+payment_method: {  }
+coupons: {  }
+_content_sync:
+  entity_type: commerce_order
+  entity_dependencies:
+    commerce_store:
+      - commerce_store.online.afcf93e7-1192-4ae6-831a-a9aa4ed2b450
+    user:
+      - user.user.018a3349-3f05-40c3-afee-54e3f6310e67
+_translations:
+  und:
+    uuid:
+      -
+        value: 469a4a71-3d4b-4c01-a996-3feff4828fbd
+    type:
+      -
+        target_id: default
+        target_type: commerce_order_type
+        target_uuid: ea30c38f-5b18-42ae-aaa2-ed323e8d0df2
+    order_number: {  }
+    store_id:
+      -
+        target_type: commerce_store
+        target_uuid: afcf93e7-1192-4ae6-831a-a9aa4ed2b450
+    uid:
+      -
+        target_type: user
+        target_uuid: 018a3349-3f05-40c3-afee-54e3f6310e67
+    mail:
+      -
+        value: prueba24@gmail.com
+    ip_address:
+      -
+        value: '::1'
+    billing_profile: {  }
+    order_items: {  }
+    adjustments: {  }
+    total_price: {  }
+    total_paid: {  }
+    state:
+      -
+        value: draft
+    data:
+      -
+        paid_event_dispatched: false
+    locked:
+      -
+        value: false
+    created:
+      -
+        value: '2020-04-24T16:59:44+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    changed:
+      -
+        value: '2020-04-27T20:26:46+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    placed: {  }
+    completed: {  }
+    cart:
+      -
+        value: true
+    checkout_flow: {  }
+    checkout_step: {  }
+    payment_gateway: {  }
+    payment_method: {  }
+    coupons: {  }
+    _content_sync:
+      entity_type: commerce_order
+      entity_dependencies:
+        commerce_store:
+          - commerce_store.online.afcf93e7-1192-4ae6-831a-a9aa4ed2b450
+        user:
+          - user.user.018a3349-3f05-40c3-afee-54e3f6310e67

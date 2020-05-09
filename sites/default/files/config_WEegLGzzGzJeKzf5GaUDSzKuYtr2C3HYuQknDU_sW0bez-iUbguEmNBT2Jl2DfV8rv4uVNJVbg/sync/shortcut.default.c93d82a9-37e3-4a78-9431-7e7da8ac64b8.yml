@@ -1,0 +1,28 @@
+uuid:
+  -
+    value: c93d82a9-37e3-4a78-9431-7e7da8ac64b8
+langcode:
+  -
+    value: es
+shortcut_set:
+  -
+    target_id: default
+    target_type: shortcut_set
+    target_uuid: 3b278802-ebff-4abb-8f73-ed11510c4585
+title:
+  -
+    value: 'Add content'
+weight:
+  -
+    value: -20
+link:
+  -
+    uri: 'internal:/node/add'
+    title: null
+    options: {  }
+default_langcode:
+  -
+    value: true
+_content_sync:
+  entity_type: shortcut
+  entity_dependencies: {  }

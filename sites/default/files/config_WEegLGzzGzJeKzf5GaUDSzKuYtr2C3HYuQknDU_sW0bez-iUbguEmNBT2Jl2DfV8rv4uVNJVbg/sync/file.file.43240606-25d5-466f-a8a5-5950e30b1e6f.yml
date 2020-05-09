@@ -1,0 +1,39 @@
+uuid:
+  -
+    value: 43240606-25d5-466f-a8a5-5950e30b1e6f
+langcode:
+  -
+    value: es
+uid:
+  -
+    target_type: user
+    target_uuid: 41754c4c-0a3f-42c2-8df0-43bcbee3b720
+filename:
+  -
+    value: dc486960-701e-421b-b145-70d04f3b85be.jpg
+uri:
+  -
+    value: 'public://default_images/dc486960-701e-421b-b145-70d04f3b85be.jpg'
+    url: /drupal8/drupal-8.8.4/sites/default/files/default_images/dc486960-701e-421b-b145-70d04f3b85be.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 114022
+status:
+  -
+    value: true
+created:
+  -
+    value: '2020-04-01T15:58:56+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-01T15:59:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.41754c4c-0a3f-42c2-8df0-43bcbee3b720

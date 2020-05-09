@@ -1,0 +1,112 @@
+uuid:
+  -
+    value: ee9a301e-7720-40dc-b2e7-c0c6172ed97e
+type:
+  -
+    target_id: default
+    target_type: commerce_order_item_type
+    target_uuid: f076e757-f9cb-4974-a706-8984d8ef6bbe
+order_id:
+  -
+    target_type: commerce_order
+    target_uuid: 47856d4e-48e1-4f43-846a-a8fa0eeb8c7d
+purchased_entity:
+  -
+    target_type: commerce_product_variation
+    target_uuid: 442e7531-6d3c-4d8e-a007-c698af4e7fc3
+title:
+  -
+    value: 'Videojuegos - PS4'
+quantity:
+  -
+    value: '1.00'
+unit_price:
+  -
+    number: '49.990000'
+    currency_code: EUR
+    formatted: "49,99\_€"
+overridden_unit_price:
+  -
+    value: false
+total_price:
+  -
+    number: '49.990000'
+    currency_code: EUR
+    formatted: "49,99\_€"
+adjustments: {  }
+uses_legacy_adjustments:
+  -
+    value: false
+data: {  }
+created:
+  -
+    value: '2020-04-01T15:53:38+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-01T15:53:38+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: commerce_order_item
+  entity_dependencies:
+    commerce_order:
+      - commerce_order.default.47856d4e-48e1-4f43-846a-a8fa0eeb8c7d
+    commerce_product_variation:
+      - commerce_product_variation.default.442e7531-6d3c-4d8e-a007-c698af4e7fc3
+_translations:
+  und:
+    uuid:
+      -
+        value: ee9a301e-7720-40dc-b2e7-c0c6172ed97e
+    type:
+      -
+        target_id: default
+        target_type: commerce_order_item_type
+        target_uuid: f076e757-f9cb-4974-a706-8984d8ef6bbe
+    order_id:
+      -
+        target_type: commerce_order
+        target_uuid: 47856d4e-48e1-4f43-846a-a8fa0eeb8c7d
+    purchased_entity:
+      -
+        target_type: commerce_product_variation
+        target_uuid: 442e7531-6d3c-4d8e-a007-c698af4e7fc3
+    title:
+      -
+        value: 'Videojuegos - PS4'
+    quantity:
+      -
+        value: '1.00'
+    unit_price:
+      -
+        number: '49.990000'
+        currency_code: EUR
+        formatted: "49,99\_€"
+    overridden_unit_price:
+      -
+        value: false
+    total_price:
+      -
+        number: '49.990000'
+        currency_code: EUR
+        formatted: "49,99\_€"
+    adjustments: {  }
+    uses_legacy_adjustments:
+      -
+        value: false
+    data: {  }
+    created:
+      -
+        value: '2020-04-01T15:53:38+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    changed:
+      -
+        value: '2020-04-01T15:53:38+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    _content_sync:
+      entity_type: commerce_order_item
+      entity_dependencies:
+        commerce_order:
+          - commerce_order.default.47856d4e-48e1-4f43-846a-a8fa0eeb8c7d
+        commerce_product_variation:
+          - commerce_product_variation.default.442e7531-6d3c-4d8e-a007-c698af4e7fc3

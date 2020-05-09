@@ -1,0 +1,39 @@
+uuid:
+  -
+    value: 57f07695-cbd2-44bb-8a60-a8c6892aa20b
+langcode:
+  -
+    value: es
+uid:
+  -
+    target_type: user
+    target_uuid: 41754c4c-0a3f-42c2-8df0-43bcbee3b720
+filename:
+  -
+    value: 618K8K3FZGL._AC_SX430__0.jpg
+uri:
+  -
+    value: 'public://2020-03/618K8K3FZGL._AC_SX430__0.jpg'
+    url: /drupal8/drupal-8.8.4/sites/default/files/2020-03/618K8K3FZGL._AC_SX430__0.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 41652
+status:
+  -
+    value: true
+created:
+  -
+    value: '2020-03-29T15:43:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-03-29T15:43:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.41754c4c-0a3f-42c2-8df0-43bcbee3b720

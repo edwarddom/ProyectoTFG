@@ -1,0 +1,68 @@
+uuid:
+  -
+    value: afcf93e7-1192-4ae6-831a-a9aa4ed2b450
+langcode:
+  -
+    value: es
+type:
+  -
+    target_id: online
+    target_type: commerce_store_type
+    target_uuid: 6134e3a3-39a0-4c86-ad5a-d4a3819f65b0
+uid:
+  -
+    target_type: user
+    target_uuid: 41754c4c-0a3f-42c2-8df0-43bcbee3b720
+name:
+  -
+    value: SellGames
+mail:
+  -
+    value: SellGames@hotmail.com
+default_currency:
+  -
+    target_id: EUR
+    target_type: commerce_currency
+    target_uuid: 74a99b32-aec2-4619-8d3f-bab0f8308236
+timezone:
+  -
+    value: Europe/Berlin
+address:
+  -
+    langcode: ''
+    country_code: ES
+    administrative_area: Madrid
+    locality: Madrid
+    dependent_locality: null
+    postal_code: '28000'
+    sorting_code: null
+    address_line1: 'Calle Falsa 13'
+    address_line2: ''
+    organization: null
+    given_name: null
+    additional_name: null
+    family_name: null
+billing_countries:
+  -
+    value: ES
+path:
+  -
+    alias: /SellGamesStore
+is_default:
+  -
+    value: true
+default_langcode:
+  -
+    value: true
+shipping_countries: {  }
+prices_include_tax:
+  -
+    value: true
+tax_registrations:
+  -
+    value: ES
+_content_sync:
+  entity_type: commerce_store
+  entity_dependencies:
+    user:
+      - user.user.41754c4c-0a3f-42c2-8df0-43bcbee3b720

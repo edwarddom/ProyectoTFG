@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 4f12dcab-9ec6-4703-8502-f976b090806f
+langcode:
+  -
+    value: es
+path:
+  -
+    value: /taxonomy/term/7
+alias:
+  -
+    value: /FantasiaMagica
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

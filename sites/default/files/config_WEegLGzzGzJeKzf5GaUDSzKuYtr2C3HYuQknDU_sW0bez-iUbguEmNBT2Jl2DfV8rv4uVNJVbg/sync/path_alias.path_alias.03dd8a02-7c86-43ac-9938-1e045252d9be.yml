@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 03dd8a02-7c86-43ac-9938-1e045252d9be
+langcode:
+  -
+    value: es
+path:
+  -
+    value: /node/1
+alias:
+  -
+    value: /Inicio
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

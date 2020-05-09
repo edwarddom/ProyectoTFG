@@ -1,0 +1,112 @@
+uuid:
+  -
+    value: bae00623-0d1c-493b-b887-9c73c646e251
+type:
+  -
+    target_id: default
+    target_type: commerce_order_item_type
+    target_uuid: f076e757-f9cb-4974-a706-8984d8ef6bbe
+order_id:
+  -
+    target_type: commerce_order
+    target_uuid: 35f9980a-a48a-4963-805e-16589a558e41
+purchased_entity:
+  -
+    target_type: commerce_product_variation
+    target_uuid: 17778643-7773-4493-9b73-7e3329b942a1
+title:
+  -
+    value: 'Videojuegos - NINTENDO SWITCH'
+quantity:
+  -
+    value: '1.00'
+unit_price:
+  -
+    number: '45.950000'
+    currency_code: EUR
+    formatted: "45,95\_€"
+overridden_unit_price:
+  -
+    value: false
+total_price:
+  -
+    number: '45.950000'
+    currency_code: EUR
+    formatted: "45,95\_€"
+adjustments: {  }
+uses_legacy_adjustments:
+  -
+    value: false
+data: {  }
+created:
+  -
+    value: '2020-04-04T16:33:39+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-04T16:33:42+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: commerce_order_item
+  entity_dependencies:
+    commerce_order:
+      - commerce_order.default.35f9980a-a48a-4963-805e-16589a558e41
+    commerce_product_variation:
+      - commerce_product_variation.default.17778643-7773-4493-9b73-7e3329b942a1
+_translations:
+  und:
+    uuid:
+      -
+        value: bae00623-0d1c-493b-b887-9c73c646e251
+    type:
+      -
+        target_id: default
+        target_type: commerce_order_item_type
+        target_uuid: f076e757-f9cb-4974-a706-8984d8ef6bbe
+    order_id:
+      -
+        target_type: commerce_order
+        target_uuid: 35f9980a-a48a-4963-805e-16589a558e41
+    purchased_entity:
+      -
+        target_type: commerce_product_variation
+        target_uuid: 17778643-7773-4493-9b73-7e3329b942a1
+    title:
+      -
+        value: 'Videojuegos - NINTENDO SWITCH'
+    quantity:
+      -
+        value: '1.00'
+    unit_price:
+      -
+        number: '45.950000'
+        currency_code: EUR
+        formatted: "45,95\_€"
+    overridden_unit_price:
+      -
+        value: false
+    total_price:
+      -
+        number: '45.950000'
+        currency_code: EUR
+        formatted: "45,95\_€"
+    adjustments: {  }
+    uses_legacy_adjustments:
+      -
+        value: false
+    data: {  }
+    created:
+      -
+        value: '2020-04-04T16:33:39+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    changed:
+      -
+        value: '2020-04-04T16:33:42+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    _content_sync:
+      entity_type: commerce_order_item
+      entity_dependencies:
+        commerce_order:
+          - commerce_order.default.35f9980a-a48a-4963-805e-16589a558e41
+        commerce_product_variation:
+          - commerce_product_variation.default.17778643-7773-4493-9b73-7e3329b942a1

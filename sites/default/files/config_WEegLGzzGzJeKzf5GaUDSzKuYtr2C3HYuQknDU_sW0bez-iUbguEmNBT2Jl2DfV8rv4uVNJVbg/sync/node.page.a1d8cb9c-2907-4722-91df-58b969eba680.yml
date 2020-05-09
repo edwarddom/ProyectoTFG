@@ -1,0 +1,66 @@
+uuid:
+  -
+    value: a1d8cb9c-2907-4722-91df-58b969eba680
+langcode:
+  -
+    value: es
+type:
+  -
+    target_id: page
+    target_type: node_type
+    target_uuid: f54f6fcf-9395-4cc7-85b5-3e6f75f63403
+revision_timestamp:
+  -
+    value: '2020-03-24T17:11:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 41754c4c-0a3f-42c2-8df0-43bcbee3b720
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 41754c4c-0a3f-42c2-8df0-43bcbee3b720
+title:
+  -
+    value: 'Acceso Denegado'
+created:
+  -
+    value: '2020-03-24T17:11:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-03-24T17:11:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /AccesoDenegado
+body:
+  -
+    value: "<p>Acceso Denegado.</p>\r\n"
+    format: basic_html
+    processed: '<p>Acceso Denegado.</p>'
+    summary: ''
+    summary_processed: ''
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.41754c4c-0a3f-42c2-8df0-43bcbee3b720
+      - user.user.41754c4c-0a3f-42c2-8df0-43bcbee3b720

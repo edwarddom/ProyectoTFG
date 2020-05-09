@@ -1,0 +1,62 @@
+uuid:
+  -
+    value: 2a8b49e7-f635-47b7-b7dd-c81ba3d3750e
+langcode:
+  -
+    value: es
+bundle:
+  -
+    value: menu_link_content
+revision_created:
+  -
+    value: '2020-03-25T17:37:32+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+enabled:
+  -
+    value: true
+title:
+  -
+    value: Nosotros
+description:
+  -
+    value: Nosotros
+menu_name:
+  -
+    value: main
+link:
+  -
+    uri: 'entity:node/4'
+    title: null
+    options: {  }
+external:
+  -
+    value: false
+rediscover:
+  -
+    value: false
+weight:
+  -
+    value: -48
+expanded:
+  -
+    value: false
+parent: {  }
+changed:
+  -
+    value: '2020-03-28T17:14:24+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+_content_sync:
+  entity_type: menu_link_content
+  menu_entity_link:
+    node: a985bc4c-03c1-4824-a020-fba98acf9f06
+  entity_dependencies:
+    node:
+      - node.page.a985bc4c-03c1-4824-a020-fba98acf9f06

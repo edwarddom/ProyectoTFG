@@ -1,0 +1,71 @@
+uuid:
+  -
+    value: e4e8c936-388a-4974-9727-81d1ae263dbe
+langcode:
+  -
+    value: es
+type:
+  -
+    target_id: default
+    target_type: commerce_product_type
+    target_uuid: bab10a94-a24c-4cf1-bd02-418002d374b4
+status:
+  -
+    value: true
+stores:
+  -
+    target_type: commerce_store
+    target_uuid: afcf93e7-1192-4ae6-831a-a9aa4ed2b450
+uid:
+  -
+    target_type: user
+    target_uuid: 41754c4c-0a3f-42c2-8df0-43bcbee3b720
+title:
+  -
+    value: 'FIFA 2020'
+variations:
+  -
+    target_type: commerce_product_variation
+    target_uuid: 442e7531-6d3c-4d8e-a007-c698af4e7fc3
+  -
+    target_type: commerce_product_variation
+    target_uuid: 17778643-7773-4493-9b73-7e3329b942a1
+  -
+    target_type: commerce_product_variation
+    target_uuid: 4745e238-e165-4e6d-b448-9b65d637a4d2
+  -
+    target_type: commerce_product_variation
+    target_uuid: c323e267-3c7c-48fa-b58b-649938d4a639
+path:
+  -
+    alias: /VideojuegosShop
+created:
+  -
+    value: '2020-04-01T15:42:36+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-12T16:47:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+body:
+  -
+    value: "<h1>FIFA 2020</h1>\r\n"
+    format: full_html
+    processed: "<h1>FIFA 2020</h1>\n"
+    summary: ''
+    summary_processed: ''
+_content_sync:
+  entity_type: commerce_product
+  entity_dependencies:
+    commerce_store:
+      - commerce_store.online.afcf93e7-1192-4ae6-831a-a9aa4ed2b450
+    user:
+      - user.user.41754c4c-0a3f-42c2-8df0-43bcbee3b720
+    commerce_product_variation:
+      - commerce_product_variation.default.442e7531-6d3c-4d8e-a007-c698af4e7fc3
+      - commerce_product_variation.default.17778643-7773-4493-9b73-7e3329b942a1
+      - commerce_product_variation.default.4745e238-e165-4e6d-b448-9b65d637a4d2
+      - commerce_product_variation.default.c323e267-3c7c-48fa-b58b-649938d4a639

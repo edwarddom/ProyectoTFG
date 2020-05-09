@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 3b5c6fd9-3ddc-4dfc-884f-33da43de917d
+langcode:
+  -
+    value: es
+path:
+  -
+    value: /store/1
+alias:
+  -
+    value: /SellGamesStore
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

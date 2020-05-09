@@ -1,0 +1,23 @@
+uuid:
+  -
+    value: c27087a1-5eeb-4a40-80ec-675c845c72aa
+langcode:
+  -
+    value: es
+type:
+  -
+    target_id: default
+    target_type: commerce_stock_location_type
+    target_uuid: 38183e27-6f69-4f4d-8d90-00205f4eb46d
+name:
+  -
+    value: Main
+status:
+  -
+    value: true
+default_langcode:
+  -
+    value: true
+_content_sync:
+  entity_type: commerce_stock_location
+  entity_dependencies: {  }

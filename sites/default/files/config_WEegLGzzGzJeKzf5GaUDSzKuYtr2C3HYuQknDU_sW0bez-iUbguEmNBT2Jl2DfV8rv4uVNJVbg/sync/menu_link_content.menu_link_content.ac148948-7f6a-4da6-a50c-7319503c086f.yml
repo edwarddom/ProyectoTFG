@@ -1,0 +1,57 @@
+uuid:
+  -
+    value: ac148948-7f6a-4da6-a50c-7319503c086f
+langcode:
+  -
+    value: es
+bundle:
+  -
+    value: menu_link_content
+revision_created:
+  -
+    value: '2020-03-29T15:51:11+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+enabled:
+  -
+    value: true
+title:
+  -
+    value: Contacto
+description:
+  -
+    value: Contacto
+menu_name:
+  -
+    value: main
+link:
+  -
+    uri: 'internal:/contact'
+    title: ''
+    options: {  }
+external:
+  -
+    value: false
+rediscover:
+  -
+    value: true
+weight:
+  -
+    value: 0
+expanded:
+  -
+    value: false
+parent: {  }
+changed:
+  -
+    value: '2020-03-29T15:51:11+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+_content_sync:
+  entity_type: menu_link_content

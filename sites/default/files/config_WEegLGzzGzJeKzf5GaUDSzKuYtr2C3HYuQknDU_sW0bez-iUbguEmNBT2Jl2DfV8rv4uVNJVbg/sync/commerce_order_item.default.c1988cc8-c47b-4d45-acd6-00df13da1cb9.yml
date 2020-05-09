@@ -1,0 +1,112 @@
+uuid:
+  -
+    value: c1988cc8-c47b-4d45-acd6-00df13da1cb9
+type:
+  -
+    target_id: default
+    target_type: commerce_order_item_type
+    target_uuid: f076e757-f9cb-4974-a706-8984d8ef6bbe
+order_id:
+  -
+    target_type: commerce_order
+    target_uuid: 35f9980a-a48a-4963-805e-16589a558e41
+purchased_entity:
+  -
+    target_type: commerce_product_variation
+    target_uuid: 4745e238-e165-4e6d-b448-9b65d637a4d2
+title:
+  -
+    value: 'Videojuegos - XBOX ONE'
+quantity:
+  -
+    value: '1.00'
+unit_price:
+  -
+    number: '49.990000'
+    currency_code: EUR
+    formatted: "49,99\_€"
+overridden_unit_price:
+  -
+    value: false
+total_price:
+  -
+    number: '49.990000'
+    currency_code: EUR
+    formatted: "49,99\_€"
+adjustments: {  }
+uses_legacy_adjustments:
+  -
+    value: false
+data: {  }
+created:
+  -
+    value: '2020-04-04T16:33:15+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-04T16:33:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: commerce_order_item
+  entity_dependencies:
+    commerce_order:
+      - commerce_order.default.35f9980a-a48a-4963-805e-16589a558e41
+    commerce_product_variation:
+      - commerce_product_variation.default.4745e238-e165-4e6d-b448-9b65d637a4d2
+_translations:
+  und:
+    uuid:
+      -
+        value: c1988cc8-c47b-4d45-acd6-00df13da1cb9
+    type:
+      -
+        target_id: default
+        target_type: commerce_order_item_type
+        target_uuid: f076e757-f9cb-4974-a706-8984d8ef6bbe
+    order_id:
+      -
+        target_type: commerce_order
+        target_uuid: 35f9980a-a48a-4963-805e-16589a558e41
+    purchased_entity:
+      -
+        target_type: commerce_product_variation
+        target_uuid: 4745e238-e165-4e6d-b448-9b65d637a4d2
+    title:
+      -
+        value: 'Videojuegos - XBOX ONE'
+    quantity:
+      -
+        value: '1.00'
+    unit_price:
+      -
+        number: '49.990000'
+        currency_code: EUR
+        formatted: "49,99\_€"
+    overridden_unit_price:
+      -
+        value: false
+    total_price:
+      -
+        number: '49.990000'
+        currency_code: EUR
+        formatted: "49,99\_€"
+    adjustments: {  }
+    uses_legacy_adjustments:
+      -
+        value: false
+    data: {  }
+    created:
+      -
+        value: '2020-04-04T16:33:15+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    changed:
+      -
+        value: '2020-04-04T16:33:23+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    _content_sync:
+      entity_type: commerce_order_item
+      entity_dependencies:
+        commerce_order:
+          - commerce_order.default.35f9980a-a48a-4963-805e-16589a558e41
+        commerce_product_variation:
+          - commerce_product_variation.default.4745e238-e165-4e6d-b448-9b65d637a4d2

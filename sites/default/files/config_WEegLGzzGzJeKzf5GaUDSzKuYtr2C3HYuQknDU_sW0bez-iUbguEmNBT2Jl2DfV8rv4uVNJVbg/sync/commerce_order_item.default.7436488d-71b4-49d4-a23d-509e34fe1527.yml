@@ -1,0 +1,112 @@
+uuid:
+  -
+    value: 7436488d-71b4-49d4-a23d-509e34fe1527
+type:
+  -
+    target_id: default
+    target_type: commerce_order_item_type
+    target_uuid: f076e757-f9cb-4974-a706-8984d8ef6bbe
+order_id:
+  -
+    target_type: commerce_order
+    target_uuid: f3a2e82c-5246-4b32-8f9e-f4a1a5f8cf1e
+purchased_entity:
+  -
+    target_type: commerce_product_variation
+    target_uuid: c323e267-3c7c-48fa-b58b-649938d4a639
+title:
+  -
+    value: 'FIFA 2020 - PC'
+quantity:
+  -
+    value: '1.00'
+unit_price:
+  -
+    number: '49.990000'
+    currency_code: EUR
+    formatted: "49,99\_€"
+overridden_unit_price:
+  -
+    value: false
+total_price:
+  -
+    number: '49.990000'
+    currency_code: EUR
+    formatted: "49,99\_€"
+adjustments: {  }
+uses_legacy_adjustments:
+  -
+    value: false
+data: {  }
+created:
+  -
+    value: '2020-04-12T16:49:39+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-12T16:49:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: commerce_order_item
+  entity_dependencies:
+    commerce_order:
+      - commerce_order.default.f3a2e82c-5246-4b32-8f9e-f4a1a5f8cf1e
+    commerce_product_variation:
+      - commerce_product_variation.default.c323e267-3c7c-48fa-b58b-649938d4a639
+_translations:
+  und:
+    uuid:
+      -
+        value: 7436488d-71b4-49d4-a23d-509e34fe1527
+    type:
+      -
+        target_id: default
+        target_type: commerce_order_item_type
+        target_uuid: f076e757-f9cb-4974-a706-8984d8ef6bbe
+    order_id:
+      -
+        target_type: commerce_order
+        target_uuid: f3a2e82c-5246-4b32-8f9e-f4a1a5f8cf1e
+    purchased_entity:
+      -
+        target_type: commerce_product_variation
+        target_uuid: c323e267-3c7c-48fa-b58b-649938d4a639
+    title:
+      -
+        value: 'FIFA 2020 - PC'
+    quantity:
+      -
+        value: '1.00'
+    unit_price:
+      -
+        number: '49.990000'
+        currency_code: EUR
+        formatted: "49,99\_€"
+    overridden_unit_price:
+      -
+        value: false
+    total_price:
+      -
+        number: '49.990000'
+        currency_code: EUR
+        formatted: "49,99\_€"
+    adjustments: {  }
+    uses_legacy_adjustments:
+      -
+        value: false
+    data: {  }
+    created:
+      -
+        value: '2020-04-12T16:49:39+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    changed:
+      -
+        value: '2020-04-12T16:49:45+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    _content_sync:
+      entity_type: commerce_order_item
+      entity_dependencies:
+        commerce_order:
+          - commerce_order.default.f3a2e82c-5246-4b32-8f9e-f4a1a5f8cf1e
+        commerce_product_variation:
+          - commerce_product_variation.default.c323e267-3c7c-48fa-b58b-649938d4a639

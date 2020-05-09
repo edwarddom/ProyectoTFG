@@ -1,0 +1,39 @@
+uuid:
+  -
+    value: 64318980-1501-4713-b569-46d622d4822f
+langcode:
+  -
+    value: es
+uid:
+  -
+    target_type: user
+    target_uuid: 41754c4c-0a3f-42c2-8df0-43bcbee3b720
+filename:
+  -
+    value: fifa_20-4971679_0.jpg
+uri:
+  -
+    value: 'public://2020-04/fifa_20-4971679_0.jpg'
+    url: /drupal8/drupal-8.8.4/sites/default/files/2020-04/fifa_20-4971679_0.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 74651
+status:
+  -
+    value: true
+created:
+  -
+    value: '2020-04-01T16:06:32+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-01T16:06:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.41754c4c-0a3f-42c2-8df0-43bcbee3b720

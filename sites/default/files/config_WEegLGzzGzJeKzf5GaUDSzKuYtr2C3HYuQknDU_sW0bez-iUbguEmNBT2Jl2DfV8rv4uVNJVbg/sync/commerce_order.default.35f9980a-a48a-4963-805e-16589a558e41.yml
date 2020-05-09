@@ -1,0 +1,216 @@
+uuid:
+  -
+    value: 35f9980a-a48a-4963-805e-16589a558e41
+type:
+  -
+    target_id: default
+    target_type: commerce_order_type
+    target_uuid: ea30c38f-5b18-42ae-aaa2-ed323e8d0df2
+order_number:
+  -
+    value: '3'
+store_id:
+  -
+    target_type: commerce_store
+    target_uuid: afcf93e7-1192-4ae6-831a-a9aa4ed2b450
+uid:
+  -
+    target_type: user
+    target_uuid: 41754c4c-0a3f-42c2-8df0-43bcbee3b720
+mail:
+  -
+    value: SellGames@gmail.com
+ip_address:
+  -
+    value: 127.0.0.1
+billing_profile:
+  -
+    target_revision_id: 4
+    target_type: profile
+    target_uuid: f9bb992b-b15a-4227-abb4-74ab465b4a79
+order_items:
+  -
+    target_type: commerce_order_item
+    target_uuid: c1988cc8-c47b-4d45-acd6-00df13da1cb9
+  -
+    target_type: commerce_order_item
+    target_uuid: 6a9020c9-04bf-40ba-a6e9-c6cb5d194f30
+  -
+    target_type: commerce_order_item
+    target_uuid: bae00623-0d1c-493b-b887-9c73c646e251
+adjustments: {  }
+total_price:
+  -
+    number: '145.930000'
+    currency_code: EUR
+    formatted: "145,93\_€"
+total_paid:
+  -
+    number: '145.930000'
+    currency_code: EUR
+    formatted: "145,93\_€"
+state:
+  -
+    value: completed
+data:
+  -
+    paid_event_dispatched: true
+locked:
+  -
+    value: false
+created:
+  -
+    value: '2020-04-04T16:33:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-04T16:35:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+placed:
+  -
+    value: '2020-04-04T16:35:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+completed:
+  -
+    value: '2020-04-04T16:35:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+cart:
+  -
+    value: false
+checkout_flow:
+  -
+    target_id: default
+    target_type: commerce_checkout_flow
+    target_uuid: c84c5755-1615-4854-8450-3e98d4968062
+checkout_step:
+  -
+    value: complete
+payment_gateway:
+  -
+    target_id: paypal
+    target_type: commerce_payment_gateway
+    target_uuid: 1f411570-5e6c-4b94-9cba-4f1f489a350a
+payment_method: {  }
+coupons: {  }
+_content_sync:
+  entity_type: commerce_order
+  entity_dependencies:
+    commerce_store:
+      - commerce_store.online.afcf93e7-1192-4ae6-831a-a9aa4ed2b450
+    user:
+      - user.user.41754c4c-0a3f-42c2-8df0-43bcbee3b720
+    profile:
+      - profile.customer.f9bb992b-b15a-4227-abb4-74ab465b4a79
+    commerce_order_item:
+      - commerce_order_item.default.c1988cc8-c47b-4d45-acd6-00df13da1cb9
+      - commerce_order_item.default.6a9020c9-04bf-40ba-a6e9-c6cb5d194f30
+      - commerce_order_item.default.bae00623-0d1c-493b-b887-9c73c646e251
+_translations:
+  und:
+    uuid:
+      -
+        value: 35f9980a-a48a-4963-805e-16589a558e41
+    type:
+      -
+        target_id: default
+        target_type: commerce_order_type
+        target_uuid: ea30c38f-5b18-42ae-aaa2-ed323e8d0df2
+    order_number:
+      -
+        value: '3'
+    store_id:
+      -
+        target_type: commerce_store
+        target_uuid: afcf93e7-1192-4ae6-831a-a9aa4ed2b450
+    uid:
+      -
+        target_type: user
+        target_uuid: 41754c4c-0a3f-42c2-8df0-43bcbee3b720
+    mail:
+      -
+        value: SellGames@gmail.com
+    ip_address:
+      -
+        value: 127.0.0.1
+    billing_profile:
+      -
+        target_revision_id: 4
+        target_type: profile
+        target_uuid: f9bb992b-b15a-4227-abb4-74ab465b4a79
+    order_items:
+      -
+        target_type: commerce_order_item
+        target_uuid: c1988cc8-c47b-4d45-acd6-00df13da1cb9
+      -
+        target_type: commerce_order_item
+        target_uuid: 6a9020c9-04bf-40ba-a6e9-c6cb5d194f30
+      -
+        target_type: commerce_order_item
+        target_uuid: bae00623-0d1c-493b-b887-9c73c646e251
+    adjustments: {  }
+    total_price:
+      -
+        number: '145.930000'
+        currency_code: EUR
+        formatted: "145,93\_€"
+    total_paid:
+      -
+        number: '145.930000'
+        currency_code: EUR
+        formatted: "145,93\_€"
+    state:
+      -
+        value: completed
+    data:
+      -
+        paid_event_dispatched: true
+    locked:
+      -
+        value: false
+    created:
+      -
+        value: '2020-04-04T16:33:23+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    changed:
+      -
+        value: '2020-04-04T16:35:34+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    placed:
+      -
+        value: '2020-04-04T16:35:34+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    completed:
+      -
+        value: '2020-04-04T16:35:34+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    cart:
+      -
+        value: false
+    checkout_flow:
+      -
+        target_id: default
+        target_type: commerce_checkout_flow
+        target_uuid: c84c5755-1615-4854-8450-3e98d4968062
+    checkout_step:
+      -
+        value: complete
+    payment_gateway:
+      -
+        target_id: paypal
+        target_type: commerce_payment_gateway
+        target_uuid: 1f411570-5e6c-4b94-9cba-4f1f489a350a
+    payment_method: {  }
+    coupons: {  }
+    _content_sync:
+      entity_type: commerce_order
+      entity_dependencies:
+        commerce_store:
+          - commerce_store.online.afcf93e7-1192-4ae6-831a-a9aa4ed2b450
+        user:
+          - user.user.41754c4c-0a3f-42c2-8df0-43bcbee3b720
+        profile:
+          - profile.customer.f9bb992b-b15a-4227-abb4-74ab465b4a79
+        commerce_order_item:
+          - commerce_order_item.default.c1988cc8-c47b-4d45-acd6-00df13da1cb9
+          - commerce_order_item.default.6a9020c9-04bf-40ba-a6e9-c6cb5d194f30
+          - commerce_order_item.default.bae00623-0d1c-493b-b887-9c73c646e251

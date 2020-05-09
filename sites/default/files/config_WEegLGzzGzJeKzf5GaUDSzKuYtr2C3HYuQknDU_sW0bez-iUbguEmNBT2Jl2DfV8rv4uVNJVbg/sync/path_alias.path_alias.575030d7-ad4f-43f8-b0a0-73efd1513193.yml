@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 575030d7-ad4f-43f8-b0a0-73efd1513193
+langcode:
+  -
+    value: es
+path:
+  -
+    value: /node/5
+alias:
+  -
+    value: /noticia1
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

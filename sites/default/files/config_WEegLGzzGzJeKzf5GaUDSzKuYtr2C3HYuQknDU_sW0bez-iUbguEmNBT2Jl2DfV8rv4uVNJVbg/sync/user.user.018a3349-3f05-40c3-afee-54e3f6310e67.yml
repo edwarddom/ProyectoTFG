@@ -1,0 +1,58 @@
+uuid:
+  -
+    value: 018a3349-3f05-40c3-afee-54e3f6310e67
+langcode:
+  -
+    value: es
+preferred_langcode:
+  -
+    value: es
+preferred_admin_langcode:
+  -
+    value: es
+name:
+  -
+    value: prueba24
+mail:
+  value: prueba24@gmail.com
+timezone:
+  -
+    value: Europe/Paris
+status:
+  value: '1'
+created:
+  -
+    value: '2020-04-24T15:35:50+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-24T16:38:32+00:00'
+    format: 'Y-m-d\TH:i:sP'
+access:
+  -
+    value: '2020-04-27T20:27:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+login:
+  -
+    value: '2020-04-24T16:48:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+init:
+  -
+    value: prueba24@gmail.com
+roles:
+  - authenticated
+  - administrator
+default_langcode:
+  -
+    value: true
+customer_profiles: {  }
+commerce_remote_id: {  }
+field_imagen2: {  }
+user_picture: {  }
+_content_sync:
+  entity_type: user
+  entity_dependencies: {  }
+pass:
+  -
+    value: $S$ELhN/3MA/hurboVR8519iKnoJxjSGJ6yVtXKwi9TAmyuTApyv5mV
+    pre_hashed: true

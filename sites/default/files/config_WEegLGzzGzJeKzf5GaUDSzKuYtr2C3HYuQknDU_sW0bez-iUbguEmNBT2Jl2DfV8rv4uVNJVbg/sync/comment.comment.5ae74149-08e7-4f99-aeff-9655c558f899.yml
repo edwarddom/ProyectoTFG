@@ -1,0 +1,62 @@
+uuid:
+  -
+    value: 5ae74149-08e7-4f99-aeff-9655c558f899
+langcode:
+  -
+    value: es
+comment_type:
+  -
+    target_id: comment
+    target_type: comment_type
+    target_uuid: 87038706-e573-4739-9213-e52dc85ebb15
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 41754c4c-0a3f-42c2-8df0-43bcbee3b720
+pid: {  }
+entity_id:
+  -
+    target_type: node
+    target_uuid: 895e3767-079b-419f-bdef-36d92e5d4f83
+subject:
+  -
+    value: asd
+name: {  }
+mail: {  }
+homepage: {  }
+created:
+  -
+    value: '2020-03-28T17:05:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-03-28T17:05:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+thread:
+  -
+    value: 01/
+entity_type:
+  -
+    value: node
+field_name:
+  -
+    value: comment
+default_langcode:
+  -
+    value: true
+comment_body:
+  -
+    value: "<p>asd</p>\r\n"
+    format: basic_html
+    processed: '<p>asd</p>'
+_content_sync:
+  entity_type: comment
+  entity_dependencies:
+    user:
+      - user.user.41754c4c-0a3f-42c2-8df0-43bcbee3b720
+    node:
+      - node.article.895e3767-079b-419f-bdef-36d92e5d4f83
+      - node.article.895e3767-079b-419f-bdef-36d92e5d4f83

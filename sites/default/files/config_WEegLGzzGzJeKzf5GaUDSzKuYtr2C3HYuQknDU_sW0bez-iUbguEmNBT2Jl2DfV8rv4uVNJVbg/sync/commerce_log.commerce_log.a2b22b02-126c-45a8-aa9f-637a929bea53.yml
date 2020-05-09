@@ -1,0 +1,64 @@
+uuid:
+  -
+    value: a2b22b02-126c-45a8-aa9f-637a929bea53
+uid:
+  -
+    target_type: user
+    target_uuid: 41754c4c-0a3f-42c2-8df0-43bcbee3b720
+template_id:
+  -
+    value: cart_item_removed
+category_id:
+  -
+    value: commerce_cart
+source_entity_id:
+  -
+    value: 6
+source_entity_type:
+  -
+    value: commerce_order
+params:
+  -
+    purchased_entity_label: 'Pokemon Lets Go Pikachu'
+created:
+  -
+    value: '2020-04-04T17:08:31+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: commerce_log
+  entity_dependencies:
+    user:
+      - user.user.41754c4c-0a3f-42c2-8df0-43bcbee3b720
+_translations:
+  und:
+    uuid:
+      -
+        value: a2b22b02-126c-45a8-aa9f-637a929bea53
+    uid:
+      -
+        target_type: user
+        target_uuid: 41754c4c-0a3f-42c2-8df0-43bcbee3b720
+    template_id:
+      -
+        value: cart_item_removed
+    category_id:
+      -
+        value: commerce_cart
+    source_entity_id:
+      -
+        value: 6
+    source_entity_type:
+      -
+        value: commerce_order
+    params:
+      -
+        purchased_entity_label: 'Pokemon Lets Go Pikachu'
+    created:
+      -
+        value: '2020-04-04T17:08:31+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    _content_sync:
+      entity_type: commerce_log
+      entity_dependencies:
+        user:
+          - user.user.41754c4c-0a3f-42c2-8df0-43bcbee3b720

@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 4745e238-e165-4e6d-b448-9b65d637a4d2
+langcode:
+  -
+    value: es
+type:
+  -
+    target_id: default
+    target_type: commerce_product_variation_type
+    target_uuid: c2799a9b-fe66-4f49-a5a3-34a9db47d963
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 41754c4c-0a3f-42c2-8df0-43bcbee3b720
+product_id:
+  -
+    target_type: commerce_product
+    target_uuid: e4e8c936-388a-4974-9727-81d1ae263dbe
+sku:
+  -
+    value: 'FIFA 20 XBOX ONE'
+title:
+  -
+    value: 'FIFA 2020 - XBOX ONE'
+list_price:
+  -
+    number: null
+    currency_code: null
+    formatted: null
+price:
+  -
+    number: '49.990000'
+    currency_code: EUR
+    formatted: "49,99\_€"
+created:
+  -
+    value: '2020-04-01T16:07:30+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-04T16:58:51+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+commerce_stock_always_in_stock:
+  -
+    value: false
+attribute_plataforma:
+  -
+    target_type: commerce_product_attribute_value
+    target_uuid: 19f6adaa-75cb-46be-88c5-375b333a3505
+dimensions:
+  -
+    length: '25.000000'
+    width: '4.000000'
+    height: '40.000000'
+    unit: cm
+field_imagen:
+  -
+    alt: 'FIFA 20'
+    title: ''
+    width: 640
+    height: 640
+    target_type: file
+    target_uuid: 1fff618e-7fa5-4519-9a66-e4e890ea317d
+field_stock: {  }
+weight:
+  -
+    number: '100.000000'
+    unit: g
+_content_sync:
+  entity_type: commerce_product_variation
+  entity_dependencies:
+    user:
+      - user.user.41754c4c-0a3f-42c2-8df0-43bcbee3b720
+    commerce_product:
+      - commerce_product.default.e4e8c936-388a-4974-9727-81d1ae263dbe
+    commerce_product_attribute_value:
+      - commerce_product_attribute_value.plataforma.19f6adaa-75cb-46be-88c5-375b333a3505
+    file:
+      - file.file.1fff618e-7fa5-4519-9a66-e4e890ea317d

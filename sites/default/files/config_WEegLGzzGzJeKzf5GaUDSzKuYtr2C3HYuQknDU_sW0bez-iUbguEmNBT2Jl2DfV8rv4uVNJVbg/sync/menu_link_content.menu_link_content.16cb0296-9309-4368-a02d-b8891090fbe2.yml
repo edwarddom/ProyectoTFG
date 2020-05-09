@@ -1,0 +1,55 @@
+uuid:
+  -
+    value: 16cb0296-9309-4368-a02d-b8891090fbe2
+langcode:
+  -
+    value: es
+bundle:
+  -
+    value: menu_link_content
+revision_created:
+  -
+    value: '2020-03-28T17:14:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+enabled:
+  -
+    value: true
+title:
+  -
+    value: Videojuegos
+description: {  }
+menu_name:
+  -
+    value: main
+link:
+  -
+    uri: 'internal:/videojuegos'
+    title: ''
+    options: {  }
+external:
+  -
+    value: false
+rediscover:
+  -
+    value: true
+weight:
+  -
+    value: -49
+expanded:
+  -
+    value: false
+parent: {  }
+changed:
+  -
+    value: '2020-04-01T16:36:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+_content_sync:
+  entity_type: menu_link_content

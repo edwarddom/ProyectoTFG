@@ -1,0 +1,64 @@
+uuid:
+  -
+    value: 90a3ee54-a8fc-405c-9d96-5e5cc49729c4
+uid:
+  -
+    target_type: user
+    target_uuid: 018a3349-3f05-40c3-afee-54e3f6310e67
+template_id:
+  -
+    value: cart_entity_added
+category_id:
+  -
+    value: commerce_cart
+source_entity_id:
+  -
+    value: 8
+source_entity_type:
+  -
+    value: commerce_order
+params:
+  -
+    purchased_entity_label: 'Animal Crossing - NINTENDO SWITCH'
+created:
+  -
+    value: '2020-04-24T16:59:44+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: commerce_log
+  entity_dependencies:
+    user:
+      - user.user.018a3349-3f05-40c3-afee-54e3f6310e67
+_translations:
+  und:
+    uuid:
+      -
+        value: 90a3ee54-a8fc-405c-9d96-5e5cc49729c4
+    uid:
+      -
+        target_type: user
+        target_uuid: 018a3349-3f05-40c3-afee-54e3f6310e67
+    template_id:
+      -
+        value: cart_entity_added
+    category_id:
+      -
+        value: commerce_cart
+    source_entity_id:
+      -
+        value: 8
+    source_entity_type:
+      -
+        value: commerce_order
+    params:
+      -
+        purchased_entity_label: 'Animal Crossing - NINTENDO SWITCH'
+    created:
+      -
+        value: '2020-04-24T16:59:44+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    _content_sync:
+      entity_type: commerce_log
+      entity_dependencies:
+        user:
+          - user.user.018a3349-3f05-40c3-afee-54e3f6310e67

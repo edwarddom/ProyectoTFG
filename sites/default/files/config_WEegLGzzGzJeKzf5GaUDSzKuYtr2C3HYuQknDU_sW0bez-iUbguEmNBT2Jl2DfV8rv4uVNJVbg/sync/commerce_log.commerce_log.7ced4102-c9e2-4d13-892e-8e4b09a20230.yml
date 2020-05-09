@@ -1,0 +1,60 @@
+uuid:
+  -
+    value: 7ced4102-c9e2-4d13-892e-8e4b09a20230
+uid:
+  -
+    target_type: user
+    target_uuid: 41754c4c-0a3f-42c2-8df0-43bcbee3b720
+template_id:
+  -
+    value: order_placed
+category_id:
+  -
+    value: commerce_order
+source_entity_id:
+  -
+    value: 1
+source_entity_type:
+  -
+    value: commerce_order
+params: {  }
+created:
+  -
+    value: '2020-04-01T17:19:54+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: commerce_log
+  entity_dependencies:
+    user:
+      - user.user.41754c4c-0a3f-42c2-8df0-43bcbee3b720
+_translations:
+  und:
+    uuid:
+      -
+        value: 7ced4102-c9e2-4d13-892e-8e4b09a20230
+    uid:
+      -
+        target_type: user
+        target_uuid: 41754c4c-0a3f-42c2-8df0-43bcbee3b720
+    template_id:
+      -
+        value: order_placed
+    category_id:
+      -
+        value: commerce_order
+    source_entity_id:
+      -
+        value: 1
+    source_entity_type:
+      -
+        value: commerce_order
+    params: {  }
+    created:
+      -
+        value: '2020-04-01T17:19:54+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    _content_sync:
+      entity_type: commerce_log
+      entity_dependencies:
+        user:
+          - user.user.41754c4c-0a3f-42c2-8df0-43bcbee3b720

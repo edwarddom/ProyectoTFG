@@ -1,0 +1,52 @@
+uuid:
+  -
+    value: 23493fd3-638e-44df-8466-1c4d869c72d4
+langcode:
+  -
+    value: es
+vid:
+  -
+    target_id: tags
+    target_type: taxonomy_vocabulary
+    target_uuid: bee08d8e-8271-4830-a3e0-b681450b6eb1
+revision_created:
+  -
+    value: '2020-03-25T17:42:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+status:
+  -
+    value: true
+name:
+  -
+    value: juegos
+description:
+  -
+    value: null
+    format: null
+    processed: ''
+weight:
+  -
+    value: 0
+parent:
+  -
+    target_id: 0
+changed:
+  -
+    value: '2020-03-25T17:42:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: null
+    pid: null
+    langcode: es
+_content_sync:
+  entity_type: taxonomy_term
+  entity_dependencies: {  }

@@ -1,0 +1,112 @@
+uuid:
+  -
+    value: 59e1cee7-01a8-4eb7-80f8-a2d56992c1b5
+type:
+  -
+    target_id: default
+    target_type: commerce_order_item_type
+    target_uuid: f076e757-f9cb-4974-a706-8984d8ef6bbe
+order_id:
+  -
+    target_type: commerce_order
+    target_uuid: f2feba5e-8fd7-4a24-a1da-1aafce0ddb54
+purchased_entity:
+  -
+    target_type: commerce_product_variation
+    target_uuid: 28410d41-330c-42f4-a594-9224e88291bb
+title:
+  -
+    value: 'Animal Crossing - NINTENDO SWITCH'
+quantity:
+  -
+    value: '1.00'
+unit_price:
+  -
+    number: '49.990000'
+    currency_code: EUR
+    formatted: "49,99\_€"
+overridden_unit_price:
+  -
+    value: false
+total_price:
+  -
+    number: '49.990000'
+    currency_code: EUR
+    formatted: "49,99\_€"
+adjustments: {  }
+uses_legacy_adjustments:
+  -
+    value: false
+data: {  }
+created:
+  -
+    value: '2020-04-02T16:16:32+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-02T16:16:32+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: commerce_order_item
+  entity_dependencies:
+    commerce_order:
+      - commerce_order.default.f2feba5e-8fd7-4a24-a1da-1aafce0ddb54
+    commerce_product_variation:
+      - commerce_product_variation.default.28410d41-330c-42f4-a594-9224e88291bb
+_translations:
+  und:
+    uuid:
+      -
+        value: 59e1cee7-01a8-4eb7-80f8-a2d56992c1b5
+    type:
+      -
+        target_id: default
+        target_type: commerce_order_item_type
+        target_uuid: f076e757-f9cb-4974-a706-8984d8ef6bbe
+    order_id:
+      -
+        target_type: commerce_order
+        target_uuid: f2feba5e-8fd7-4a24-a1da-1aafce0ddb54
+    purchased_entity:
+      -
+        target_type: commerce_product_variation
+        target_uuid: 28410d41-330c-42f4-a594-9224e88291bb
+    title:
+      -
+        value: 'Animal Crossing - NINTENDO SWITCH'
+    quantity:
+      -
+        value: '1.00'
+    unit_price:
+      -
+        number: '49.990000'
+        currency_code: EUR
+        formatted: "49,99\_€"
+    overridden_unit_price:
+      -
+        value: false
+    total_price:
+      -
+        number: '49.990000'
+        currency_code: EUR
+        formatted: "49,99\_€"
+    adjustments: {  }
+    uses_legacy_adjustments:
+      -
+        value: false
+    data: {  }
+    created:
+      -
+        value: '2020-04-02T16:16:32+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    changed:
+      -
+        value: '2020-04-02T16:16:32+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    _content_sync:
+      entity_type: commerce_order_item
+      entity_dependencies:
+        commerce_order:
+          - commerce_order.default.f2feba5e-8fd7-4a24-a1da-1aafce0ddb54
+        commerce_product_variation:
+          - commerce_product_variation.default.28410d41-330c-42f4-a594-9224e88291bb

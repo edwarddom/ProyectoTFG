@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 4300963b-bd16-45b2-bf20-ed3cad5ea9ba
+langcode:
+  -
+    value: es
+path:
+  -
+    value: /taxonomy/term/6
+alias:
+  -
+    value: /FantasiaAventura
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

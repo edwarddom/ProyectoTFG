@@ -1,0 +1,92 @@
+uuid:
+  -
+    value: 05cb9938-fb52-4b1d-b078-885be6bcd7c3
+langcode:
+  -
+    value: es
+type:
+  -
+    target_id: videojuegos
+    target_type: node_type
+    target_uuid: 4352b16f-2fda-406f-beca-2bc6e8d663eb
+revision_timestamp:
+  -
+    value: '2020-03-26T16:37:02+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 41754c4c-0a3f-42c2-8df0-43bcbee3b720
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 41754c4c-0a3f-42c2-8df0-43bcbee3b720
+title:
+  -
+    value: 'Animal Crossing'
+created:
+  -
+    value: '2020-03-26T16:36:54+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-03-28T17:15:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: null
+    pid: null
+    langcode: es
+field_categoria:
+  -
+    value: Simulación
+field_compania:
+  -
+    value: Nintendo
+field_descripcion:
+  -
+    value: "<p>Animal Crossing. Nintendo Switch.</p>\r\n"
+    format: basic_html
+    processed: '<p>Animal Crossing. Nintendo Switch.</p>'
+    summary: ''
+    summary_processed: ''
+field_envio: {  }
+field_fantasia: {  }
+field_fecha_de_salida:
+  -
+    value: '2020-03-20'
+field_portada:
+  -
+    alt: 'Animal Crossing'
+    title: ''
+    width: 640
+    height: 640
+    target_type: file
+    target_uuid: 099dcf45-c697-479d-b7d3-edff3f8bcdbe
+field_stock:
+  -
+    value: 10
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.41754c4c-0a3f-42c2-8df0-43bcbee3b720
+      - user.user.41754c4c-0a3f-42c2-8df0-43bcbee3b720
+    file:
+      - file.file.099dcf45-c697-479d-b7d3-edff3f8bcdbe

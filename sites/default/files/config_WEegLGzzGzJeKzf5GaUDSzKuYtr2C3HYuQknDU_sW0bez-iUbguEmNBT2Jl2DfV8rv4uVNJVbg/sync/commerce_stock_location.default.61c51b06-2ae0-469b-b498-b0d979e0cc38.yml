@@ -1,0 +1,23 @@
+uuid:
+  -
+    value: 61c51b06-2ae0-469b-b498-b0d979e0cc38
+langcode:
+  -
+    value: es
+type:
+  -
+    target_id: default
+    target_type: commerce_stock_location_type
+    target_uuid: 38183e27-6f69-4f4d-8d90-00205f4eb46d
+name:
+  -
+    value: 'Animal Crossing'
+status:
+  -
+    value: true
+default_langcode:
+  -
+    value: true
+_content_sync:
+  entity_type: commerce_stock_location
+  entity_dependencies: {  }

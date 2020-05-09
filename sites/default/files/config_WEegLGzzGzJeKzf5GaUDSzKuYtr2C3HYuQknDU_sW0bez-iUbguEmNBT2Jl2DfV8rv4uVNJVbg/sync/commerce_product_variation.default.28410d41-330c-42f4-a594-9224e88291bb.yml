@@ -1,0 +1,89 @@
+uuid:
+  -
+    value: 28410d41-330c-42f4-a594-9224e88291bb
+langcode:
+  -
+    value: es
+type:
+  -
+    target_id: default
+    target_type: commerce_product_variation_type
+    target_uuid: c2799a9b-fe66-4f49-a5a3-34a9db47d963
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 41754c4c-0a3f-42c2-8df0-43bcbee3b720
+product_id:
+  -
+    target_type: commerce_product
+    target_uuid: 2a4340a4-71ce-4849-a1a7-ce788c16594b
+sku:
+  -
+    value: 'Animal Crossing'
+title:
+  -
+    value: 'Animal Crossing - NINTENDO SWITCH'
+list_price:
+  -
+    number: null
+    currency_code: null
+    formatted: null
+price:
+  -
+    number: '49.990000'
+    currency_code: EUR
+    formatted: "49,99\_€"
+created:
+  -
+    value: '2020-04-01T16:20:20+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-12T16:26:24+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+commerce_stock_always_in_stock:
+  -
+    value: true
+attribute_plataforma:
+  -
+    target_type: commerce_product_attribute_value
+    target_uuid: 2ea03be6-60c3-4794-8a52-2b1f2967adc5
+dimensions:
+  -
+    length: '24.000000'
+    width: '4.000000'
+    height: '40.000000'
+    unit: cm
+field_imagen:
+  -
+    alt: 'Animal Crossing'
+    title: ''
+    width: 640
+    height: 640
+    target_type: file
+    target_uuid: c653dff3-a331-4721-bbee-f9be171b9b90
+field_stock:
+  -
+    value: !!float 0
+    available_stock: !!float 10
+weight:
+  -
+    number: '100.000000'
+    unit: g
+_content_sync:
+  entity_type: commerce_product_variation
+  entity_dependencies:
+    user:
+      - user.user.41754c4c-0a3f-42c2-8df0-43bcbee3b720
+    commerce_product:
+      - commerce_product.default.2a4340a4-71ce-4849-a1a7-ce788c16594b
+    commerce_product_attribute_value:
+      - commerce_product_attribute_value.plataforma.2ea03be6-60c3-4794-8a52-2b1f2967adc5
+    file:
+      - file.file.c653dff3-a331-4721-bbee-f9be171b9b90

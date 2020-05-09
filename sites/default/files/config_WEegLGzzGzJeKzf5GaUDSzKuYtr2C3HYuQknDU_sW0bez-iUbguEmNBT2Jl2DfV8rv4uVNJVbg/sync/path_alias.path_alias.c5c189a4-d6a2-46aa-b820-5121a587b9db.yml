@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: c5c189a4-d6a2-46aa-b820-5121a587b9db
+langcode:
+  -
+    value: es
+path:
+  -
+    value: /product/1
+alias:
+  -
+    value: /VideojuegosShop
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

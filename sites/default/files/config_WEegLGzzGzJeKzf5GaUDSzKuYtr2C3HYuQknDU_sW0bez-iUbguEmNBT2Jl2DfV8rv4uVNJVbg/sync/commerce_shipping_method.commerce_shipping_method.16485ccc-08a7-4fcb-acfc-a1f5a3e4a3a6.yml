@@ -1,0 +1,44 @@
+uuid:
+  -
+    value: 16485ccc-08a7-4fcb-acfc-a1f5a3e4a3a6
+langcode:
+  -
+    value: es
+stores:
+  -
+    target_type: commerce_store
+    target_uuid: afcf93e7-1192-4ae6-831a-a9aa4ed2b450
+plugin:
+  -
+    target_plugin_id: flat_rate
+    target_plugin_configuration:
+      rate_label: Estandar
+      rate_description: ''
+      rate_amount:
+        number: '5.90'
+        currency_code: EUR
+      services:
+        - default
+      default_package_type: custom_box
+      workflow: shipment_default
+name:
+  -
+    value: Estandar
+conditions: {  }
+condition_operator:
+  -
+    value: AND
+weight:
+  -
+    value: 0
+status:
+  -
+    value: true
+default_langcode:
+  -
+    value: true
+_content_sync:
+  entity_type: commerce_shipping_method
+  entity_dependencies:
+    commerce_store:
+      - commerce_store.online.afcf93e7-1192-4ae6-831a-a9aa4ed2b450

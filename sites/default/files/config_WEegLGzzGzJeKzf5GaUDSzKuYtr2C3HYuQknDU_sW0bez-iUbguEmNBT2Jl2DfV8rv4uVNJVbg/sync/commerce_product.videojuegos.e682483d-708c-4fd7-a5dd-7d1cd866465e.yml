@@ -1,0 +1,55 @@
+uuid:
+  -
+    value: e682483d-708c-4fd7-a5dd-7d1cd866465e
+langcode:
+  -
+    value: es
+type:
+  -
+    target_id: videojuegos
+    target_type: commerce_product_type
+    target_uuid: c29ee96d-3d36-4ac9-8f9b-cf0f1dcced6c
+status:
+  -
+    value: true
+stores:
+  -
+    target_type: commerce_store
+    target_uuid: afcf93e7-1192-4ae6-831a-a9aa4ed2b450
+uid:
+  -
+    target_type: user
+    target_uuid: 41754c4c-0a3f-42c2-8df0-43bcbee3b720
+title:
+  -
+    value: 'Pokemon Lets Go Pikachu'
+variations:
+  -
+    target_type: commerce_product_variation
+    target_uuid: b8f00c97-1549-4078-8181-fa83cf744a50
+path:
+  -
+    alias: null
+    pid: null
+    langcode: es
+created:
+  -
+    value: '2020-04-04T16:52:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-04T16:54:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+body: {  }
+_content_sync:
+  entity_type: commerce_product
+  entity_dependencies:
+    commerce_store:
+      - commerce_store.online.afcf93e7-1192-4ae6-831a-a9aa4ed2b450
+    user:
+      - user.user.41754c4c-0a3f-42c2-8df0-43bcbee3b720
+    commerce_product_variation:
+      - commerce_product_variation.juego_fisico.b8f00c97-1549-4078-8181-fa83cf744a50

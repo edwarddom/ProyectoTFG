@@ -1,0 +1,39 @@
+uuid:
+  -
+    value: cc33b8c6-366d-4742-962d-f3d57c329c98
+langcode:
+  -
+    value: es
+uid:
+  -
+    target_type: user
+    target_uuid: 41754c4c-0a3f-42c2-8df0-43bcbee3b720
+filename:
+  -
+    value: Mapa-Politico-de-Espana.jpg
+uri:
+  -
+    value: 'public://inline-images/Mapa-Politico-de-Espana.jpg'
+    url: /drupal8/drupal-8.8.4/sites/default/files/inline-images/Mapa-Politico-de-Espana.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 666078
+status:
+  -
+    value: true
+created:
+  -
+    value: '2020-03-25T17:31:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-03-25T17:37:32+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.41754c4c-0a3f-42c2-8df0-43bcbee3b720

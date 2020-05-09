@@ -1,0 +1,58 @@
+uuid:
+  -
+    value: 8992481c-9ee6-4a08-904b-4eeebeb7d698
+langcode:
+  -
+    value: es
+preferred_langcode:
+  -
+    value: es
+preferred_admin_langcode:
+  -
+    value: es
+name:
+  -
+    value: prueba23
+mail:
+  value: prueba23@gmail.com
+timezone:
+  -
+    value: Europe/Paris
+status:
+  value: '1'
+created:
+  -
+    value: '2020-04-24T15:10:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-24T17:13:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+access:
+  -
+    value: '2020-04-24T17:13:54+00:00'
+    format: 'Y-m-d\TH:i:sP'
+login:
+  -
+    value: '2020-04-24T17:13:54+00:00'
+    format: 'Y-m-d\TH:i:sP'
+init:
+  -
+    value: prueba23@gmail.com
+roles:
+  - authenticated
+  - administrator
+default_langcode:
+  -
+    value: true
+customer_profiles: {  }
+commerce_remote_id: {  }
+field_imagen2: {  }
+user_picture: {  }
+_content_sync:
+  entity_type: user
+  entity_dependencies: {  }
+pass:
+  -
+    value: $S$EKn0F8oVpKsgHnbcfVHcsY38n0SIuUZ5tsYdDOMeWfoRqiSyOUcN
+    pre_hashed: true

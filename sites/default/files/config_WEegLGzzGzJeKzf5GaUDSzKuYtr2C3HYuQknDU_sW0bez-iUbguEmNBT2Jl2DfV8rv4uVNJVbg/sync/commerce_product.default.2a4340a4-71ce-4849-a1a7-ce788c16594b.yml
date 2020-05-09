@@ -1,0 +1,61 @@
+uuid:
+  -
+    value: 2a4340a4-71ce-4849-a1a7-ce788c16594b
+langcode:
+  -
+    value: es
+type:
+  -
+    target_id: default
+    target_type: commerce_product_type
+    target_uuid: bab10a94-a24c-4cf1-bd02-418002d374b4
+status:
+  -
+    value: true
+stores:
+  -
+    target_type: commerce_store
+    target_uuid: afcf93e7-1192-4ae6-831a-a9aa4ed2b450
+uid:
+  -
+    target_type: user
+    target_uuid: 41754c4c-0a3f-42c2-8df0-43bcbee3b720
+title:
+  -
+    value: 'Animal Crossing'
+variations:
+  -
+    target_type: commerce_product_variation
+    target_uuid: 28410d41-330c-42f4-a594-9224e88291bb
+path:
+  -
+    alias: null
+    pid: null
+    langcode: es
+created:
+  -
+    value: '2020-04-01T16:19:32+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-12T16:47:09+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+body:
+  -
+    value: "<h1>Animal Crossing</h1>\r\n"
+    format: full_html
+    processed: "<h1>Animal Crossing</h1>\n"
+    summary: ''
+    summary_processed: ''
+_content_sync:
+  entity_type: commerce_product
+  entity_dependencies:
+    commerce_store:
+      - commerce_store.online.afcf93e7-1192-4ae6-831a-a9aa4ed2b450
+    user:
+      - user.user.41754c4c-0a3f-42c2-8df0-43bcbee3b720
+    commerce_product_variation:
+      - commerce_product_variation.default.28410d41-330c-42f4-a594-9224e88291bb

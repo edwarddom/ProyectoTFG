@@ -1,0 +1,62 @@
+uuid:
+  -
+    value: 41754c4c-0a3f-42c2-8df0-43bcbee3b720
+langcode:
+  -
+    value: es
+preferred_langcode:
+  -
+    value: es
+preferred_admin_langcode: {  }
+name:
+  -
+    value: SellGamesAdmin
+mail:
+  value: SellGamesShopESP@gmail.com
+timezone:
+  -
+    value: Europe/Berlin
+status:
+  value: '1'
+created:
+  -
+    value: '2020-03-23T17:53:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-24T17:13:30+00:00'
+    format: 'Y-m-d\TH:i:sP'
+access:
+  -
+    value: '2020-04-25T15:21:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+login:
+  -
+    value: '2020-04-25T15:21:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+init:
+  -
+    value: SellGames@gmail.com
+roles:
+  - authenticated
+default_langcode:
+  -
+    value: true
+customer_profiles:
+  -
+    target_id: 3
+    target_type: profile
+    target_uuid: dff62607-259e-4bc6-8d83-716120cb4da4
+    url: /drupal8/drupal-8.8.4/profile/3
+commerce_remote_id: {  }
+field_imagen2: {  }
+user_picture: {  }
+_content_sync:
+  entity_type: user
+  entity_dependencies:
+    profile:
+      - profile.customer.dff62607-259e-4bc6-8d83-716120cb4da4
+pass:
+  -
+    value: $S$EnV5IJUaR4/CfWVdZkg2OuTEzv4oTCS5CPEA2due3cfJn6amEi7W
+    pre_hashed: true

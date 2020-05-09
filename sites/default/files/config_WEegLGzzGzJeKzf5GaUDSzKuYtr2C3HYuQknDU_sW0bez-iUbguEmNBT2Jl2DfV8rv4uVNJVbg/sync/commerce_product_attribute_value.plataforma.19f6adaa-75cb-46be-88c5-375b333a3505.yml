@@ -1,0 +1,31 @@
+uuid:
+  -
+    value: 19f6adaa-75cb-46be-88c5-375b333a3505
+langcode:
+  -
+    value: es
+attribute:
+  -
+    target_id: plataforma
+    target_type: commerce_product_attribute
+    target_uuid: bfb7b539-e2ba-4839-b1e8-322f2a24f8d9
+name:
+  -
+    value: 'XBOX ONE'
+weight:
+  -
+    value: 2
+created:
+  -
+    value: '2020-04-01T15:36:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-01T15:36:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+_content_sync:
+  entity_type: commerce_product_attribute_value
+  entity_dependencies: {  }

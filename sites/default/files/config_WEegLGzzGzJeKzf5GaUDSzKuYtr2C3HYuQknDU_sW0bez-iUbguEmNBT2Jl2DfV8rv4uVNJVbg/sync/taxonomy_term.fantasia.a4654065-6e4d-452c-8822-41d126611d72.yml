@@ -1,0 +1,57 @@
+uuid:
+  -
+    value: a4654065-6e4d-452c-8822-41d126611d72
+langcode:
+  -
+    value: es
+vid:
+  -
+    target_id: fantasia
+    target_type: taxonomy_vocabulary
+    target_uuid: e715a20e-d4ff-414f-82cd-904d5c4a308f
+revision_created:
+  -
+    value: '2020-03-26T16:47:20+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+status:
+  -
+    value: true
+name:
+  -
+    value: Mágica
+description:
+  -
+    value: null
+    format: null
+    processed: ''
+weight:
+  -
+    value: 1
+parent:
+  -
+    target_type: taxonomy_term
+    target_uuid: a8021185-859f-4e25-b8d3-739fcf8c305b
+  -
+    target_type: taxonomy_term
+    target_uuid: a8021185-859f-4e25-b8d3-739fcf8c305b
+changed:
+  -
+    value: '2020-03-26T16:47:20+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /FantasiaMagica
+_content_sync:
+  entity_type: taxonomy_term
+  entity_dependencies:
+    taxonomy_term:
+      - taxonomy_term.fantasia.a8021185-859f-4e25-b8d3-739fcf8c305b
+      - taxonomy_term.fantasia.a8021185-859f-4e25-b8d3-739fcf8c305b

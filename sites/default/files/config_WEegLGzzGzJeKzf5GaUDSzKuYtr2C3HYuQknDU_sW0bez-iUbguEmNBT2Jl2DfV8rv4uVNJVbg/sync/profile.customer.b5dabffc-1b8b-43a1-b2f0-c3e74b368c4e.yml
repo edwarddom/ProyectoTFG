@@ -1,0 +1,126 @@
+uuid:
+  -
+    value: b5dabffc-1b8b-43a1-b2f0-c3e74b368c4e
+type:
+  -
+    target_id: customer
+    target_type: profile_type
+    target_uuid: 220b8132-7b09-4b92-a970-15f9af958280
+revision_created:
+  -
+    value: '2020-04-02T16:13:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 718c6b0d-0709-4e0c-80d5-60e5a2052564
+revision_log_message: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 718c6b0d-0709-4e0c-80d5-60e5a2052564
+is_default:
+  -
+    value: false
+data:
+  -
+    address_book_profile_id: '3'
+created:
+  -
+    value: '2020-04-02T16:13:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-02T16:13:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+address:
+  -
+    langcode: ''
+    country_code: ES
+    administrative_area: Madrid
+    locality: FFFF
+    dependent_locality: null
+    postal_code: '28000'
+    sorting_code: null
+    address_line1: ASDFKLMSD
+    address_line2: ''
+    organization: ASDÑAS
+    given_name: PEEP
+    additional_name: null
+    family_name: PEPE
+tax_number: {  }
+_content_sync:
+  entity_type: profile
+  entity_dependencies:
+    user:
+      - user.user.718c6b0d-0709-4e0c-80d5-60e5a2052564
+      - user.user.718c6b0d-0709-4e0c-80d5-60e5a2052564
+_translations:
+  und:
+    uuid:
+      -
+        value: b5dabffc-1b8b-43a1-b2f0-c3e74b368c4e
+    type:
+      -
+        target_id: customer
+        target_type: profile_type
+        target_uuid: 220b8132-7b09-4b92-a970-15f9af958280
+    revision_created:
+      -
+        value: '2020-04-02T16:13:00+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    revision_user:
+      -
+        target_id: 0
+        target_type: user
+        target_uuid: 718c6b0d-0709-4e0c-80d5-60e5a2052564
+    revision_log_message: {  }
+    status:
+      -
+        value: true
+    uid:
+      -
+        target_id: 0
+        target_type: user
+        target_uuid: 718c6b0d-0709-4e0c-80d5-60e5a2052564
+    is_default:
+      -
+        value: false
+    data:
+      -
+        address_book_profile_id: '3'
+    created:
+      -
+        value: '2020-04-02T16:13:00+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    changed:
+      -
+        value: '2020-04-02T16:13:23+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    address:
+      -
+        langcode: ''
+        country_code: ES
+        administrative_area: Madrid
+        locality: FFFF
+        dependent_locality: null
+        postal_code: '28000'
+        sorting_code: null
+        address_line1: ASDFKLMSD
+        address_line2: ''
+        organization: ASDÑAS
+        given_name: PEEP
+        additional_name: null
+        family_name: PEPE
+    tax_number: {  }
+    _content_sync:
+      entity_type: profile
+      entity_dependencies:
+        user:
+          - user.user.718c6b0d-0709-4e0c-80d5-60e5a2052564
+          - user.user.718c6b0d-0709-4e0c-80d5-60e5a2052564
